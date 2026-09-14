@@ -190,7 +190,7 @@ This project is an awesome list for AI-agent phone-call workflows. Add resources
 - [`supply-chain-supplier-status`](skills/supply-chain-supplier-status/) - Autonomous outbound phone calls to suppliers to verify purchase order fulfillment, capture delay causes, calculate financial risk, and sync procurement records.
 
 ### Apps
-
+- [SupplyScout Voice](apps/web/supplyscout-voice/) - Approval-gated procurement workflow that uses CALL-E to collect structured supplier quotes, preserves unknown facts, ranks options deterministically, and leaves supplier selection and reservation to a human.
 
 - [SiteWitness](apps/typescript/sitewitness/) - Local site-history interview workspace that carries reviewed evidence gaps into individually approved CALL-E calls, with exact transcript quotations, human year review, and a no-call rehearsal mode.
 - [Rebuttal Dispute Call](apps/python/rebuttal-dispute-call/) - One disclosed CALL-E call to a disputing customer, cross-examined against its transcript before it becomes chargeback evidence, with six scripted no-call scenarios and a live path gated by per-run consent, an allowlist and local calling hours.
